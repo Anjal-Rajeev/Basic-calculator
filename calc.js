@@ -13,4 +13,5 @@ function equalButton()
     var rslt=eval(text)
 
 document.getElementById("screen").value=rslt;
+
 }
